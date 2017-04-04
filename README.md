@@ -8,8 +8,8 @@
 5. @[QTTabBar](http://qttabbar.wikidot.com/) - 资源管理器增强工具
 6. @[Snipaste](https://zh.snipaste.com/) - 方便而又强大的截图 & 贴图工具
 7. @[Bandizip](https://www.bandisoft.com/bandizip/cn/) - 聪明的压缩 & 解压缩工具
-8. @[HeidiSQL](https://www.heidisql.com/) - SQL管理工具
-9. @[A5:SQL Mk-2](http://a5m2.mmatsubara.com/) - SQL管理工具
+8. @[HeidiSQL](https://www.heidisql.com/) - SQL 管理工具
+9. @[A5:SQL Mk-2](http://a5m2.mmatsubara.com/) - SQL 管理工具
 10. @[Infinit](https://infinit.io/) - 局域网跨平台文件传输工具
 11. @[Voralent Antelope](http://www.voralent.com/zh/products/antelope/) - 精巧的图片批量压缩工具
 
