@@ -1,6 +1,4 @@
-# 提高效率的 windows 工具杂烩
+## 提高效率的 windows & web 工具杂烩 ##
+> <img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/3.0/80x15.png" /> <br/><small>自由转载-非商用-非衍生-保持署名<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/">（创意共享3.0许可证</a>）</small>
 
-
-
-
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/">知识共享署名-非商业性使用-禁止演绎 3.0 未本地化版本许可协议</a>进行许可。
+ 1. @[StackEdit](https://stackedit.io/editor)  - 在线 MarkDown 写作工具
