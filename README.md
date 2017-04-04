@@ -1,12 +1,12 @@
 ## 提高效率的 windows & web 工具杂烩 ##
-#### Windows工具
+## Windows工具
 ---
 1. @[cmder](http://cmder.net/) - Windows 下强大的控制台工具
 2. @[WGestures](http://www.yingdev.com/projects/wgestures) - Windows 下全局鼠标手势工具
 3. @[Wox](http://www.getwox.com/) - Windows 下强大的启动器工具
 4. @[1Clipboard](http://1clipboard.io/) - Windows 剪贴板增强工具
 5. @[QTTabBar](http://qttabbar.wikidot.com/) - Windows 资源管理器增强工具
-#### Web 在线工具
+## Web 在线工具
 ---
 1. @[StackEdit](https://stackedit.io/editor) - 在线 MarkDown 写作工具
 
