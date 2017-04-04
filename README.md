@@ -8,7 +8,7 @@
 5. @[QTTabBar](http://qttabbar.wikidot.com/) - 资源管理器增强工具
 6. @[Snipaste](https://zh.snipaste.com/) - 方便而又强大的截图 & 贴图工具
 7. @[Bandizip](https://www.bandisoft.com/bandizip/cn/) - 聪明的压缩 & 解压缩工具
-8. 
+
 ## Web 在线工具
 
 1. @[StackEdit](https://stackedit.io/editor) - 在线 MarkDown 写作工具
