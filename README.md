@@ -17,7 +17,7 @@
 14. @[Total Commander](https://www.ghisler.com/) - 独立的资源管理器工具
 15. @[Clover](http://cn.ejie.me/) - 资源管理器标签化工具
 16. @[Ditto](http://ditto-cp.sourceforge.net/) - 剪贴板增强工具
-
+17. @[MacType](https://github.com/snowie2000/mactype) - Windows 字体渲染工具
 ## Web 在线工具
 
 1. @[StackEdit](https://stackedit.io/editor) - 在线 MarkDown 写作工具
