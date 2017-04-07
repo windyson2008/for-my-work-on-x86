@@ -12,6 +12,11 @@
 9. @[A5:SQL Mk-2](http://a5m2.mmatsubara.com/) - SQL 管理工具
 10. @[Infinit](https://infinit.io/) - 局域网跨平台文件传输工具
 11. @[Voralent Antelope](http://www.voralent.com/zh/products/antelope/) - 精巧的图片批量压缩工具
+12. @[Everything](https://www.voidtools.com/) - 勿须多说，超强桌面搜索工具
+13. @[Fences](http://www.stardock.com/products/fences/) - 桌面增强工具
+14. @[Total Commander](https://www.ghisler.com/) - 独立的资源管理器工具
+15. @[Clover](http://cn.ejie.me/) - 资源管理器标签化工具
+16. @[Ditto](http://ditto-cp.sourceforge.net/) - 剪贴板增强工具
 
 ## Web 在线工具
 
